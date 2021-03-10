@@ -1,5 +1,4 @@
 # NN-Implementation-Scratch-PyTorch
- Greetings,
  
  In this Repository, I have implemented a simple linear regression neural net.
  there are 4 different models of same NN implemented in this repo.
